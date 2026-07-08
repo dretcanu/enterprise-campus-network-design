@@ -61,7 +61,7 @@ EmboArts Solutions required a secure, scalable and manageable network capable of
 
 # Enterprise Topology
 
-> Replace the image below with your final topology screenshot.
+
 
 ![Enterprise Topology](screenshots/topology_overview.png)
 
