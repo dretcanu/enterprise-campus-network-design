@@ -63,7 +63,7 @@ EmboArts Solutions required a secure, scalable and manageable network capable of
 
 > Replace the image below with your final topology screenshot.
 
-![Enterprise Topology](screenshots/01-topology-overview.png)
+![Enterprise Topology](screenshots/topology_overview.png)
 
 ---
 
@@ -137,31 +137,31 @@ EmboArts Solutions required a secure, scalable and manageable network capable of
 
 ## Enterprise Topology
 
-![Topology](screenshots/01-topology-overview.png)
+![Topology](screenshots/topology_overview.png)
 
 ## VLAN Configuration
 
-![VLAN](screenshots/02-vlan-configuration.png)
+![VLAN](screenshots/vlan_config.png)
 
 ## Trunk Links
 
-![Trunks](screenshots/03-trunk-links.png)
+![Trunks](screenshots/trunk_links.png)
 
 ## Routing Table
 
-![Routing](screenshots/04-routing-table.png)
+![Routing](screenshots/routing_table.png)
 
 ## DHCP
 
-![DHCP](screenshots/05-dhcp-services.png)
+![DHCP](screenshots/dhcp_services.png)
 
 ## NAT
 
-![NAT](screenshots/06-nat-translations.png)
+![NAT](screenshots/nat_translations.png)
 
 ## Guest Wireless Validation
 
-![Connectivity](screenshots/07-connectivity-test.png)
+![Connectivity](screenshots/connectivity_test.png)
 
 The validation confirms:
 
